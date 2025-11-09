@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# pod-flipkart — Proof of Delivery (POD) Prototype
 
 
@@ -34,3 +35,6 @@ A simple prototype for Proof of Delivery (POD):
 
 
 
+=======
+# pod-flipkart
+>>>>>>> 7842cbe99ad0f32cc2e156ecf2ce761785211459
